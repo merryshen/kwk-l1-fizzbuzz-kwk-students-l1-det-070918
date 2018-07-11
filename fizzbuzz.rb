@@ -5,3 +5,4 @@ def fizz_buzz(number)
     puts "Buzz"
   elsif number % 15 == 0
     puts "Fizz_Buzz"
+else 
