@@ -10,6 +10,3 @@ else
 end
 end
 fizz_buzz(15)
-fizz_buzz(3)
-fizz_buzz(5)
-fizz_buzz(4)
