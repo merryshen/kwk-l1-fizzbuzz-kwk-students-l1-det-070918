@@ -9,4 +9,4 @@ else
     puts "nil"
 end
 end
-fizz_buzz
+fizz_buzz(3)
